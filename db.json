@@ -11,9 +11,9 @@
   "profile": {
     "name": "typicode"
   },
-  "tax_codes":  [
+  "codes":  [
 	  {
-			"id": 1,
+      "id": 1,
       "name": "Professional Services",
       "product_tax_code": "19005",
       "description": "Professional services which are not subject to a service-specific tax levy."
